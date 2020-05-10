@@ -1,4 +1,7 @@
-# TensorFlow in Practice Specialization 2020
+# TensorFlow in Practice Specialization 2020 (Coursera)
+
+
+# Programming Assignments
 
 * Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
